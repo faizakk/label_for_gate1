@@ -1,0 +1,9 @@
+head
+sinus
+nose
+throat
+lymph nodes
+chest
+lungs
+muscle
+

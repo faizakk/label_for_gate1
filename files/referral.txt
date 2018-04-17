@@ -1,0 +1,14 @@
+emergency room
+ER referral
+respirologist
+pulminologist
+infectious disease specialist
+ID specialist
+chest physiotherapy
+psychotherapy
+cognitive behavioural therapy
+mindfulness therapy
+interpersonal therapy
+psychologist
+social work
+psychiatry
